@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Sitemap: https://meadowlark_rose_702.pineapplebuilder.com/sitemap.xml
